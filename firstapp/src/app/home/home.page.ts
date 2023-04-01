@@ -12,4 +12,4 @@ import { FormsModule } from '@angular/forms';
 })
 export class HomePage {
   constructor() { }
-}
+} 
