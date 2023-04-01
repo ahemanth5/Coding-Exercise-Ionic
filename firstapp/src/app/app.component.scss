@@ -1,0 +1,28 @@
+/* CSS for list container */
+ion-list {
+    border: 5px solid red;
+}
+
+/* CSS for list items */
+ion-item {
+    color: blue;
+}
+
+/* CSS for item labels */
+ion-label {
+    font-weight: bold;
+}
+
+/* CSS for item values */
+.item-value {
+    font-style: italic;
+}
+
+ion-item.white-bg {
+    --background-hover: white;
+  }
+  
+  ion-datetime.white-bg {
+    --background-activated: white;
+  }
+  
