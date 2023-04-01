@@ -4,16 +4,16 @@ This is a sample Ionic/Angular application that demonstrates the usage of the io
 
 Features
 
-. A date picker component that only allows selecting a future date
-. Displaying the selected date, today's date, yesterday's date, and the date that is 10 days and 1 year before the selected date.
-. An output of the selected date and related information in the console log.
+1. A date picker component that only allows selecting a future date
+2. Displaying the selected date, today's date, yesterday's date, and the date that is 10 days and 1 year before the selected date.
+3. An output of the selected date and related information in the console log.
 
 Getting Started
 
 To run this app locally, you need to have the following installed on your machine:
 
-. Node.js
-. Ionic CLI
+1. Node.js
+2. Ionic CLI
 
 Follow the steps below to run the app:
 
@@ -40,6 +40,6 @@ Technologies
 
 This app was built with:
 
-. Angular
-. Ionic Framework
-. Moment.js
+1. Angular
+2. Ionic Framework
+3. Moment.js
