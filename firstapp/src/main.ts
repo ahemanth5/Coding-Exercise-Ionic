@@ -17,4 +17,4 @@ bootstrapApplication(AppComponent, {
     importProvidersFrom(IonicModule.forRoot({})),
     provideRouter(routes),
   ],
-});
+}); 
