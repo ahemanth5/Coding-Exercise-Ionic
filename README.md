@@ -1,1 +1,0 @@
-# Coding-Exercise-Ionic
